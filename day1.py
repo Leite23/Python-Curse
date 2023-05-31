@@ -26,6 +26,7 @@ pyautogui.write("minha senha")
 
 pyautogui.click(x=1215, y=501)
 
+
 time.sleep(3)
 pyautogui.click(x=518, y=327)
 time.sleep(2)
@@ -75,4 +76,5 @@ Guilherme Leite
 
 pyperclip.copy(texto)
 pyautogui.hotkey("ctrl", "v")
+
 
